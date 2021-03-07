@@ -1,0 +1,396 @@
+# English translations for Japanese numeral translator package.
+# Copyright (C) 2021 Alexander Kamyshnikov <axill777@gmail.com>
+# This file is distributed under the same license as the Japanese numeral translator package.
+# Automatically generated, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Japanese numeral translator 1.0\n"
+"Report-Msgid-Bugs-To: axill777@gmail.com\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. UTF-8 bytes string
+#: src/nativeMain/kotlin/Main.kt:68
+msgid ", UTF-8 bytes: "
+msgstr ", UTF-8 bytes: "
+
+#. UTF-8 codes string
+#: src/nativeMain/kotlin/Main.kt:65
+msgid ", UTF-8 codes: "
+msgstr ", UTF-8 codes: "
+
+#. Invalid natural number string
+#: src/nativeMain/kotlin/Translator.kt:166
+msgid "ERROR: invalid natural number "
+msgstr "ERROR: invalid natural number "
+
+#. Japanese cardinal translation string
+#: src/nativeMain/kotlin/Main.kt:41
+msgid "Japanese cardinal for "
+msgstr "Japanese cardinal for "
+
+#. Program hello string
+#: src/nativeMain/kotlin/Main.kt:57
+msgid ""
+"Kotlin/Native sample program: translate given number to Japanese cardinal "
+"numeral."
+msgstr ""
+"Kotlin/Native sample program: translate given number to Japanese cardinal "
+"numeral."
+
+#. REPL mode enter string
+#: src/nativeMain/kotlin/Main.kt:83
+msgid "No command-line argument found, so enter REPL mode."
+msgstr "No command-line argument found, so enter REPL mode."
+
+#. 64-bit natural number or command input request string
+#: src/nativeMain/kotlin/Main.kt:88
+msgid "Please enter 64-bit integer number or command: "
+msgstr "Please enter 64-bit integer number or command: "
+
+#. Exit command help string
+#: src/nativeMain/kotlin/Main.kt:85
+msgid "Type exit or quit command to leave this program."
+msgstr "Type exit or quit command to leave this program."
+
+#. Current locale name string
+#: src/nativeMain/kotlin/Main.kt:59
+msgid "Your current locale is "
+msgstr "Your current locale is "
+
+#. Current locale properties string
+#: src/nativeMain/kotlin/Main.kt:62
+msgid "Your thousand separator is "
+msgstr "Your thousand separator is "
+
+#. Japanese string for "trillion" (10^12) suffix
+#: src/nativeMain/kotlin/Translator.kt:187
+msgid "choo"
+msgstr "ちょう"
+
+#. Japanese string for "five"
+#: src/nativeMain/kotlin/Translator.kt:22
+msgid "go"
+msgstr "ご"
+
+#. Japanese string for "five hundred"
+#: src/nativeMain/kotlin/Translator.kt:76
+msgid "gohyaku"
+msgstr "ごひゃく"
+
+#. Japanese string for "fifty"
+#: src/nativeMain/kotlin/Translator.kt:58
+msgid "gojuu"
+msgstr "ごじゅう"
+
+#. Japanese string for "five thousand"
+#: src/nativeMain/kotlin/Translator.kt:94
+msgid "gosen"
+msgstr "ごせん"
+
+#. Japanese string for "eight"
+#: src/nativeMain/kotlin/Translator.kt:28
+msgid "hachi"
+msgstr "はち"
+
+#. Japanese string for "eighty"
+#: src/nativeMain/kotlin/Translator.kt:64
+msgid "hachijuu"
+msgstr "はちじゅう"
+
+#. Japanese string for "eight hundred"
+#: src/nativeMain/kotlin/Translator.kt:82
+msgid "happyaku"
+msgstr "はっぴゃく"
+
+#. Japanese string for "eight thousand"
+#: src/nativeMain/kotlin/Translator.kt:100
+msgid "hassen"
+msgstr "はっせん"
+
+#. Japanese string for "one hundred"
+#: src/nativeMain/kotlin/Translator.kt:68
+msgid "hyaku"
+msgstr "ひゃく"
+
+#. Japanese string for "one hundred trillion" (10^14)
+#: src/nativeMain/kotlin/Translator.kt:124
+msgid "hyakuchoo"
+msgstr "ひゃくちょう"
+
+#. Japanese string for "one million" (10^6)
+#: src/nativeMain/kotlin/Translator.kt:108
+msgid "hyakuman"
+msgstr "ひゃくまん"
+
+#. Japanese string for "ten billion" (10^10)
+#: src/nativeMain/kotlin/Translator.kt:116
+msgid "hyakuoku"
+msgstr "ひゃくおく"
+
+#. Japanese string for "one"
+#: src/nativeMain/kotlin/Translator.kt:14
+msgid "ichi"
+msgstr "いち"
+
+#. Japanese string for "ten quadrillion" (10^16)
+#: src/nativeMain/kotlin/Translator.kt:128
+msgid "ichikei"
+msgstr "いちけい"
+
+#. Japanese string for "ten thousand" (10^4)
+#: src/nativeMain/kotlin/Translator.kt:104
+msgid "ichiman"
+msgstr "いちまん"
+
+#. Japanese string for "one hundred million" (10^8)
+#: src/nativeMain/kotlin/Translator.kt:112
+msgid "ichioku"
+msgstr "いちおく"
+
+#. invalid input (not a natural number or command) string
+#: src/nativeMain/kotlin/Main.kt:30
+msgid "invalid input "
+msgstr "invalid input "
+
+#. Japanese string for "one thousand" (10^3)
+#: src/nativeMain/kotlin/Translator.kt:86
+msgid "issen"
+msgstr "いっせん"
+
+#. Japanese string for "one trillion" (10^12)
+#: src/nativeMain/kotlin/Translator.kt:120
+msgid "itchoo"
+msgstr "いっちょう"
+
+#. Japanese string for "ten"
+#: src/nativeMain/kotlin/Translator.kt:32
+msgid "juu"
+msgstr "じゅう"
+
+#. Japanese string for "ten trillion" (10^13)
+#: src/nativeMain/kotlin/Translator.kt:122
+msgid "juuchoo"
+msgstr "じゅうちょう"
+
+#. Japanese string for "fifteen"
+#: src/nativeMain/kotlin/Translator.kt:42
+msgid "juugo"
+msgstr "じゅうご"
+
+#. Japanese string for "eighteen"
+#: src/nativeMain/kotlin/Translator.kt:48
+msgid "juuhachi"
+msgstr "じゅうはち"
+
+#. Japanese string for "eleven"
+#: src/nativeMain/kotlin/Translator.kt:34
+msgid "juuichi"
+msgstr "じゅういち"
+
+#. Japanese string for "nineteen"
+#: src/nativeMain/kotlin/Translator.kt:50
+msgid "juukyuu"
+msgstr "じゅうきゅう"
+
+#. Japanese string for "one hundred thousand" (10^5)
+#: src/nativeMain/kotlin/Translator.kt:106
+msgid "juuman"
+msgstr "じゅうまん"
+
+#. Japanese string for "seventeen"
+#: src/nativeMain/kotlin/Translator.kt:46
+msgid "juunana"
+msgstr "じゅうなな"
+
+#. Japanese string for "twelve"
+#: src/nativeMain/kotlin/Translator.kt:36
+msgid "juuni"
+msgstr "じゅうに"
+
+#. Japanese string for "one billion" (10^9)
+#: src/nativeMain/kotlin/Translator.kt:114
+msgid "juuoku"
+msgstr "じゅうおく"
+
+#. Japanese string for "sixteen"
+#: src/nativeMain/kotlin/Translator.kt:44
+msgid "juuroku"
+msgstr "じゅうろく"
+
+#. Japanese string for "thirteen"
+#: src/nativeMain/kotlin/Translator.kt:38
+msgid "juusan"
+msgstr "じゅうさん"
+
+#. Japanese string for "fourteen"
+#: src/nativeMain/kotlin/Translator.kt:40
+msgid "juuyon"
+msgstr "じゅうよん"
+
+#. Japanese string for "ten quadrillion" (10^16) suffix
+#: src/nativeMain/kotlin/Translator.kt:181
+msgid "kei"
+msgstr "けい"
+
+#. Japanese string for "nine"
+#: src/nativeMain/kotlin/Translator.kt:30
+msgid "kyuu"
+msgstr "きゅう"
+
+#. Japanese string for "nine hundred"
+#: src/nativeMain/kotlin/Translator.kt:84
+msgid "kyuuhyaku"
+msgstr "きゅうひゃく"
+
+#. Japanese string for "ninety"
+#: src/nativeMain/kotlin/Translator.kt:66
+msgid "kyuujuu"
+msgstr "きゅうじゅう"
+
+#. Japanese string for "nine thousand"
+#: src/nativeMain/kotlin/Translator.kt:102
+msgid "kyuusen"
+msgstr "きゅうせん"
+
+#. Japanese string for "ten thousand" (10^4) suffix
+#: src/nativeMain/kotlin/Translator.kt:199
+msgid "man"
+msgstr "まん"
+
+#. Japanese string for "seven hundred"
+#: src/nativeMain/kotlin/Translator.kt:80
+msgid "nanahyaku"
+msgstr "ななひゃく"
+
+#. Japanese string for "seventy"
+#: src/nativeMain/kotlin/Translator.kt:62
+msgid "nanajuu"
+msgstr "ななじゅう"
+
+#. Japanese string for "seven thousand"
+#: src/nativeMain/kotlin/Translator.kt:98
+msgid "nanasen"
+msgstr "ななせん"
+
+#. Japanese string for "two"
+#: src/nativeMain/kotlin/Translator.kt:16
+msgid "ni"
+msgstr "に"
+
+#. Japanese string for "two hundred"
+#: src/nativeMain/kotlin/Translator.kt:70
+msgid "nihyaku"
+msgstr "にひゃく"
+
+#. Japanese string for "twenty"
+#: src/nativeMain/kotlin/Translator.kt:52
+msgid "nijuu"
+msgstr "にじゅう"
+
+#. Japanese string for "two thousand"
+#: src/nativeMain/kotlin/Translator.kt:88
+msgid "nisen"
+msgstr "にせん"
+
+#. Japanese string for "one hundred million" (10^8) suffix
+#: src/nativeMain/kotlin/Translator.kt:193
+msgid "oku"
+msgstr "おく"
+
+#. 64-bit natural number or command input requirement string
+#: src/nativeMain/kotlin/Main.kt:22
+msgid "please enter 64-bit natural number or command!"
+msgstr "please enter 64-bit natural number or command!"
+
+#. Japanese string for "zero"
+#: src/nativeMain/kotlin/Translator.kt:12
+msgid "rei"
+msgstr "れい"
+
+#. Japanese string for "six"
+#: src/nativeMain/kotlin/Translator.kt:24
+msgid "roku"
+msgstr "ろく"
+
+#. Japanese string for "sixty"
+#: src/nativeMain/kotlin/Translator.kt:60
+msgid "rokujuu"
+msgstr "ろくじゅう"
+
+#. Japanese string for "six thousand"
+#: src/nativeMain/kotlin/Translator.kt:96
+msgid "rokusen"
+msgstr "ろくせん"
+
+#. Japanese string for "six hundred"
+#: src/nativeMain/kotlin/Translator.kt:78
+msgid "roppyaku"
+msgstr "ろっぴゃく"
+
+#. Japanese string for "three"
+#: src/nativeMain/kotlin/Translator.kt:18
+msgid "san"
+msgstr "さん"
+
+#. Japanese string for "three hundred"
+#: src/nativeMain/kotlin/Translator.kt:72
+msgid "sanbyaku"
+msgstr "さんびゃく"
+
+#. Japanese string for "thirty"
+#: src/nativeMain/kotlin/Translator.kt:54
+msgid "sanjuu"
+msgstr "さんじゅう"
+
+#. Japanese string for "three thousand"
+#: src/nativeMain/kotlin/Translator.kt:90
+msgid "sanzen"
+msgstr "さんぜん"
+
+#. Japanese string for "one quadrillion" (10^15)
+#: src/nativeMain/kotlin/Translator.kt:126
+msgid "senchoo"
+msgstr "せんちょう"
+
+#. Japanese string for "ten million" (10^7)
+#: src/nativeMain/kotlin/Translator.kt:110
+msgid "senman"
+msgstr "せんまん"
+
+#. Japanese string for "one hundred billion" (10^11)
+#: src/nativeMain/kotlin/Translator.kt:118
+msgid "senoku"
+msgstr "せんおく"
+
+#. Japanese string for "seven"
+#: src/nativeMain/kotlin/Translator.kt:26
+msgid "shichi"
+msgstr "しち"
+
+#. Japanese string for "four"
+#: src/nativeMain/kotlin/Translator.kt:20
+msgid "yon"
+msgstr "よん"
+
+#. Japanese string for "four hundred"
+#: src/nativeMain/kotlin/Translator.kt:74
+msgid "yonhyaku"
+msgstr "よんひゃく"
+
+#. Japanese string for "forty"
+#: src/nativeMain/kotlin/Translator.kt:56
+msgid "yonjuu"
+msgstr "よんじゅう"
+
+#. Japanese string for "four thousand"
+#: src/nativeMain/kotlin/Translator.kt:92
+msgid "yonsen"
+msgstr "よんせん"
